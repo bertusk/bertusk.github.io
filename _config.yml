@@ -1,0 +1,28 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Bertus
+tagline:          'Thoughts about software and security engineering.'
+description:      'Thoughts about software and security engineering.'
+url:              http://www.bertusk.com
+baseurl:          /
+analytics_id:     'UA-77773531-1'
+
+author:
+  name:           'Bertus K'
+
+
+paginate:         10
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/bertusk
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-sitemap
